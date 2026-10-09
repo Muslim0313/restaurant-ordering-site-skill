@@ -2,4 +2,4 @@
 
 A reusable Codex skill distilled from the Way Sushi website project. It guides menu accuracy, food imagery, mobile ordering, and live deployment checks without embedding the private project chat.
 
-Copy the `restaurant-ordering-site-skill` folder into your Codex skills directory and invoke `$restaurant-ordering-site` when building or updating a restaurant ordering website.
+Clone or copy this repository into `~/.codex/skills/restaurant-ordering-site` (or `$CODEX_HOME/skills/restaurant-ordering-site`), then invoke `$restaurant-ordering-site` when building or updating a restaurant ordering website. The private Way Sushi chat is not included.
